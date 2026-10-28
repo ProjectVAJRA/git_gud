@@ -9,7 +9,7 @@ Here is the entire code of conduct:
 ---
 
 ### Rule 0: Have Fun and Don't Take Things Too Seriously
-Coding can feel intimidating when you start. Remember: computers are just rocks that we tricked into thinking using lightning. If your terminal spits out 40 lines of bright red traceback errors, it doesn't mean you're bad at coding—it just means you're doing real programming. Vibe with it
+Coding can feel intimidating when you start. Remember: computers are just rocks that we tricked into thinking using lightning. If your terminal spits out 40 lines of bright red traceback errors, it doesn't mean you're bad at coding—it just means you're doing real programming. Vibe with it.
 
 ### Rule 1: Don't Be a Jerk
 - Be chill, be patient, and be kind.
